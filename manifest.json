@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "просто Фаст фуд by ihorchbs",
+    "name": "Фаст фуд",
+    "uuid": "58314b96-ce3a-4e51-a1e9-046cf9bb400c",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "просто Фаст фуд by ihorchbs",
+      "type": "resources",
+      "uuid": "29a6feef-7dde-40d6-b096-1164d14f1d9a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "84e457ed-9b5a-4d6a-a712-63fe79a6decb",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
